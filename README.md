@@ -1,4 +1,4 @@
-# Hello World, I'm [Anurag Kumar]! 🚀
+# Hello World, I'm Anurag Kumar 
 
 A disciplined Computer Science & Engineering graduate focused on building scalable backend architectures and mastering problem-solving.
 
